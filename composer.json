@@ -1,0 +1,6 @@
+{
+    "name": "deam/program",
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
